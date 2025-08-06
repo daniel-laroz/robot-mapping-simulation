@@ -25,7 +25,7 @@ mvn exec:java \
 ```
 
 You can also use:
-example_input_2/ or example_input_with_error/ (contains malformed input to test error handling)
+example_input_2/ or example_input_with_error/ (contains malformed)
 
 📦 Output
 The resulting output.json will be generated inside the same input directory you used (e.g., example input/output.json).
