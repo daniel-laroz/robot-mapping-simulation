@@ -29,5 +29,4 @@ example_input_2/ or example_input_with_error/ (contains malformed)
 
 The resulting output will be generated inside the input directory (e.g., example input/output.json).
 
-🧪 Running Tests
-mvn test
+🧪 Running Tests: mvn test
